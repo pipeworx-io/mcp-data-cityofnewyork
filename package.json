@@ -1,0 +1,20 @@
+{
+  "name": "@pipeworx/mcp-data-cityofnewyork",
+  "version": "0.1.0",
+  "description": "NYC Open Data — US government open data (data.cityofnewyork.us) via the Socrata SoQL API: NYC agencies — 311, transportation, housing, permits, crime & health. Keyless.",
+  "type": "module",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "keywords": ["mcp", "mcp-server", "model-context-protocol", "pipeworx", "data-cityofnewyork"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipeworx-io/mcp-data-cityofnewyork"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0"
+  }
+}
