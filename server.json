@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/data-cityofnewyork",
   "title": "Data Cityofnewyork",
-  "description": "NYC Open Data — US government open data (data.cityofnewyork.us) via the Socrata SoQL API: NYC agencies — 311, transportation, housing, permits, crime & health. Keyless.",
-  "version": "0.1.0",
+  "description": "NYC Open Data — US government open data (data.cityofnewyork.us) via the Socrata SoQL API: NYC…",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/data-cityofnewyork",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-data-cityofnewyork",
