@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-cityofnewyork",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "NYC Open Data — US government open data (data.cityofnewyork.us) via the Socrata SoQL API: NYC agencies — 311, transportation, housing, permits, crime & health. Keyless.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-769c3c9bc80de6aa8d65b09b366291f43052e7ef81da682621d1cf48ca12bc28",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-84c49709c4a4e09bd352145eb86e4730ccb3d6e3991d0e2af25b50a60d7864ff",
+    "sourceCommit": "5b29c2b0c11e1fcd954969a245b474e6e9475116"
   }
 }
